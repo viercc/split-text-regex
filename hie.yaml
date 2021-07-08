@@ -1,0 +1,4 @@
+cradle:
+  cabal:
+    - path: "./app"
+      component: "splitter:exe:split-text"
